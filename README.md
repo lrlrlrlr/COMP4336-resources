@@ -3,7 +3,7 @@ Quizzes for COMP4336
 
 
 **Last quiz hint:**  
-Attempt the MCQ practice for the textbook:  
+Attempt the MCQ practice for the textbook(pages):  
  - **Wireless Coding and Modulation 33**  
  - **WiFi Basics 75**  
  - **76 Wireless and Mobile Networking**  
