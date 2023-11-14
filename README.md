@@ -1,6 +1,9 @@
 # COMP4336-resources-2022
 Quizzes for COMP4336
 
+# Final exam review:
+ - slides: link
+
 
 **Last quiz hint:**  
 Attempt the MCQ practice for the textbook(pages):  
